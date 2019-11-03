@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnvironmentSenseToDB", "EnvironmentSenseToDB\EnvironmentSenseToDB.csproj", "{D69B83A8-B014-457C-AF5C-E60C91B15FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69B83A8-B014-457C-AF5C-E60C91B15FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69B83A8-B014-457C-AF5C-E60C91B15FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69B83A8-B014-457C-AF5C-E60C91B15FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69B83A8-B014-457C-AF5C-E60C91B15FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3DC674-CEB4-4D7C-BB05-FCA773ACB5DF}
+	EndGlobalSection
+EndGlobal
